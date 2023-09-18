@@ -1,0 +1,19 @@
+{
+  "name": "node_sequelize",
+  "version": "1.0.0",
+  "description": "To better understand the node express routers middlewares mvc sequelize",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prateek-sharma7/node_sequelize.git"
+  },
+  "author": "Prateek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prateek-sharma7/node_sequelize/issues"
+  },
+  "homepage": "https://github.com/prateek-sharma7/node_sequelize#readme"
+}
